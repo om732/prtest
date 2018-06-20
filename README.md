@@ -1,4 +1,2 @@
 # prtest
 
-test
-test
